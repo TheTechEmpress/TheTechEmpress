@@ -32,7 +32,7 @@ My current independent research focuses on **adversarial evaluation of sequence-
 | Repository | Description |
 |---|---|
 | [screening-evasion-eval](https://github.com/TheTechEmpress/screening-evasion-eval) | Adversarial evaluation of sequence-based screening tools — evasion techniques, detection rates, failure modes |
-| [synthesis-screening-explainer](https://github.com/[your-username]/synthesis-screening-explainer) | Technical explainer: how synthesis screening works and why evasion is hard to stop |
+| [synthesis-screening-explainer](https://github.com/TheTechEmpress/sequence-screening-toolkit) | Technical explainer: how synthesis screening works and why evasion is hard to stop |
 | [sequence-screening-toolkit](https://github.com/[your-username]/sequence-screening-toolkit) | Supporting utilities for sequence obfuscation, screening calls, and result analysis |
 | [detection-pipeline-demo](https://github.com/[your-username]/detection-pipeline-demo) | Minimal implementation of sense → threshold → alert logic for monitoring pipelines |
 
