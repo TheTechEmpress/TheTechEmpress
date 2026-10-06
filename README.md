@@ -10,7 +10,7 @@
 
 I am a **Computer Science researcher** working on the adversarial robustness of biological screening systems — measuring how well nucleic acid synthesis screening tools hold up against realistic evasion, and what that means for screening regimes operating outside high-resource, strongly regulated environments.
 
-I hold a **B.Tech. in Computer Science** from Olusegun Agagu University of Science and Technology (OAUSTECH), Nigeria, where I graduated with **Second Class Upper (CGPA 3.72/5.00)** and was a recipient of the **MTN Scholarship**, **NNPC/Seplat Scholarship**, and the **Dean's Best Student Award**.
+I hold a **B.Tech. in Computer Science** from Olusegun Agagu University of Science and Technology (OAUSTECH), Nigeria, where I graduated with **Second Class Upper** and was a recipient of the **MTN Scholarship**, **NNPC/Seplat Scholarship**, and the **Dean's Best Student Award**.
 
 I have formal research experience as a **Research Assistant at the Institute for Geospatial Research and Environmental Monitoring (IGREM)**, where I contributed to real-time sensor data pipelines, anomaly detection, and threshold-based alert systems — the same detection-and-response architecture that underlies computational biosecurity screening.
 
